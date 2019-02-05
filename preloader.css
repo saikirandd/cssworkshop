@@ -1,0 +1,15 @@
+.spinner {
+    width: 100px;
+    height: 100px;
+    margin: 200px auto;
+    background-color: rgb(240, 13, 13);
+  
+    border-radius: 100%;  
+    animation: sk-scaleout 2.0s infinite ease-in-out;
+    animation: sk-scaleout 2.0s infinite ease-in-out;
+  }
+  body{
+      text-align: center;
+    -webkit-text-fill-color: aliceblue;
+    background-color: black;
+  }
