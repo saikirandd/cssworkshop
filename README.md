@@ -24,8 +24,8 @@ You write CSS rules in elements, and modify properties of those elements such as
 
 ## Recommended resources
 - Spinkit : [http://tobiasahlin.com/spinkit/](http://tobiasahlin.com/spinkit/)
-- powershow : [https://www.powershow.comg](https://www.powershow.com)
-- animista: [http://animista.net/](http://animista.net/)
+- Powershow : [https://www.powershow.comg](https://www.powershow.com)
+- Animista: [http://animista.net/](http://animista.net/)
 - Flexbox froggy: [https://flexboxfroggy.com](https://flexboxfroggy.com)
 
 
